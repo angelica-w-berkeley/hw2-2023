@@ -57,7 +57,11 @@ div{
     border-top-width: 2px;
 }
 
-.blue h2, p{
+.blue h2{
+    color: #C4C4C4;
+}
+
+.blue p{
     color: #C4C4C4;
 }
 
